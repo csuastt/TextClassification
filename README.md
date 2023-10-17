@@ -41,7 +41,7 @@ TextClassification/
     # other source codes
 ```
 
-## 运行说明
+## Getting Started
 
 ```shell
 # Train the model first
